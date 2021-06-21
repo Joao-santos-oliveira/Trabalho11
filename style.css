@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(233, 27, 199);
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+}
+h2{
+    font-size: 38px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+h1{
+    font-size: 30px;
+    color: white;
+    font-family: cursive;
+}
+button{
+    font-size: 20px;
+    color: black;
+    background-color: rgb(250, 0, 42);
+}
